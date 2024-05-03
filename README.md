@@ -1,16 +1,34 @@
-### Hi there 👋
+# Coen Williams
 
-<!--
-**waimea-cwilliams/waimea-cwilliams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student at [Waimea College](https://wamea.school.nz) in NZ. I am in the Digital Technologies class, studying Level 3 NCEA.
 
-Here are some ideas to get you started:
+## Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+When I'm not coding, I like to:
+
+- Play Basketball
+- Video Games
+- And eat
+
+## My Morning Routine 
+
+1. Alarm
+2. Breakfast
+3. Shower 
+4. Drive
+5. School
+
+## Favourite Code Snippet
+
+I like to write HTML, especially `<head>` tags...
+
+```html
+<head>
+    <title>Wow!</title>
+</head>
+```
+
+## I Like This 
+
+![Paul George](paulgeorge.jpg)
+
